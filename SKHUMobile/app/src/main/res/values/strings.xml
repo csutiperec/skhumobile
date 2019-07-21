@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SKHU Mobile</string>
+    <string name="connecting_to_remote_server">Connecting to remote server...</string>
+    <string name="can_t_reach_remote_server">Can\'t reach remote server!</string>
+</resources>
